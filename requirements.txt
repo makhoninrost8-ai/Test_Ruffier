@@ -1,0 +1,15 @@
+certifi==2026.10.23
+charset-normalizer==3.5.2
+docutils==0.23
+filetype==1.2.0
+idna==3.20
+Kivy==2.3.2
+kivy-deps.angle==0.4.0
+Kivy-Garden==0.1.5
+kivy_deps.glew==0.3.2
+kivy_deps.sdl2==0.8.1
+Pygments==2.21.0
+pypiwin32==223
+pywin32==312
+requests==2.34.2
+urllib3==2.8.0
