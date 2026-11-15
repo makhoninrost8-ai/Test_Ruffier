@@ -27,13 +27,13 @@ Test_Ruffier
 
 ```
 
-## Installation &  Run
+## Installation &  Run (bash)
 
 1. **Install dependencies:**
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
-2. **Run the application:**
-    ```bash
+2. **Run the application:**  
+    ```
     python main.py
     ```
