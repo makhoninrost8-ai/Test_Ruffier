@@ -25,6 +25,8 @@ Test_Ruffier
 ├── requirements.txt # Project dependencies
 └── README.md        # Project documentation
 
+```
+
 ## Installation &  Run
 
 1. **Install dependencies:**
